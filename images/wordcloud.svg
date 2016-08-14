@@ -1,0 +1,32 @@
+<svg width="960" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g></g>
+	<g transform="translate(480,300)scale(1,1)">
+		<text text-anchor="middle" transform="translate(-37,4)" style="font-size: 100px; font-family: Impact; fill: rgb(41, 63, 111);">Politics</text>
+		<text text-anchor="middle" transform="translate(-195,-125)rotate(-90)" style="font-size: 100px; font-family: Impact; fill: rgb(41, 63, 111);">Advising</text>
+		<text text-anchor="middle" transform="translate(-162,125)rotate(0)" style="font-size: 71px; font-family: Impact; fill: rgb(189, 198, 218);">Handicap</text>
+		<text text-anchor="middle" transform="translate(157,-97)rotate(0)" style="font-size: 71px; font-family: Impact; fill: rgb(189, 198, 218);">Help</text>
+		<text text-anchor="middle" transform="translate(-216,188)rotate(0)" style="font-size: 71px; font-family: Impact; fill: rgb(189, 198, 218);">Discrimination</text>
+		<text text-anchor="middle" transform="translate(53,122)rotate(-90)" style="font-size: 71px; font-family: Impact; fill: rgb(189, 198, 218);">Finance</text>
+		<text text-anchor="middle" transform="translate(-26,-156)" style="font-size: 71px; font-family: Impact; fill: rgb(189, 198, 218);">Foreigners</text>
+		<text text-anchor="middle" transform="translate(178,83)rotate(-90)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Expertise</text>
+		<text text-anchor="middle" transform="translate(-73,64)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Europe</text>
+		<text text-anchor="middle" transform="translate(231,79)rotate(-90)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Support</text>
+		<text text-anchor="middle" transform="translate(113,99)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Laws</text>
+		<text text-anchor="middle" transform="translate(-173,44)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Press</text>
+		<text text-anchor="middle" transform="translate(-124,-123)rotate(0)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Disabilities</text>
+		<text text-anchor="middle" transform="translate(-146,19)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Care</text>
+		<text text-anchor="middle" transform="translate(276,-155)rotate(0)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Relationships</text>
+		<text text-anchor="middle" transform="translate(-357,16)rotate(0)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Welfare</text>
+		<text text-anchor="middle" transform="translate(-310,75)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Business</text>
+		<text text-anchor="middle" transform="translate(87,87)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Youth Matters</text>
+		<text text-anchor="middle" transform="translate(287,65)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Solutions</text>
+		<text text-anchor="middle" transform="translate(323,50)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Expatriates</text>
+		<text text-anchor="middle" transform="translate(202,217)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Public Health</text>
+		<text text-anchor="middle" transform="translate(112,-208)rotate(0)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Governments</text>
+		<text text-anchor="middle" transform="translate(-49,-77)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Environment</text>
+		<text text-anchor="middle" transform="translate(262,62)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Harassment</text>
+		<text text-anchor="middle" transform="translate(-282,-102)rotate(-90)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Unemployment</text>
+		<text text-anchor="middle" transform="translate(277,-15)rotate(0)" style="font-size: 49px; font-family: Impact; fill: rgb(164, 177, 205);">Labour Unions</text>
+		<text text-anchor="middle" transform="translate(-120,225)rotate(0)" style="font-size: 26px; font-family: Impact; fill: rgb(149, 161, 195);">Consumer Rights</text>
+	</g>
+</svg>
